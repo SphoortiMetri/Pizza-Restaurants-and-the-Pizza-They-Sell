@@ -13,6 +13,6 @@ What is the median price of a large plain pizza across the U.S.?
 Which cities have the most restaurants serving pizza per capita (100,000 residents)?
 
 ##### What do I need to install?
-pandas
-NumPy
-Matplotlib
+- pandas
+- NumPy
+- Matplotlib
